@@ -1,1 +1,2 @@
 client/stylesheets/* linguist-vendored
+*.c linguist-language=C
